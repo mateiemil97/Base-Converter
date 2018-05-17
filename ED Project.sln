@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED Projec", "ED Project\ED Projec.csproj", "{0A692B11-6B98-411D-8733-D7A8C7FE40FB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Base Converter", "Base Converter\Base Converter.vdproj", "{128813FB-A810-4F3B-876E-4C3FCDB12199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A692B11-6B98-411D-8733-D7A8C7FE40FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A692B11-6B98-411D-8733-D7A8C7FE40FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A692B11-6B98-411D-8733-D7A8C7FE40FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A692B11-6B98-411D-8733-D7A8C7FE40FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128813FB-A810-4F3B-876E-4C3FCDB12199}.Debug|Any CPU.ActiveCfg = Debug
+		{128813FB-A810-4F3B-876E-4C3FCDB12199}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6BEE964-5D66-4F0B-8DA3-F423F7E891A7}
+	EndGlobalSection
+EndGlobal
